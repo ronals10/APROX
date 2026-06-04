@@ -1,0 +1,13 @@
+luces_aproximacion/
+
+app.py
+db.py
+database.db
+requirements.txt
+
+pages/
+│
+├── 1_Mantenimiento.py
+└── 2_Historial.py
+
+uploads/
